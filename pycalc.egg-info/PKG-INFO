@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pycalc
+Version: 1.0
+Summary: Pure-python command-line calculator.
+Home-page: UNKNOWN
+Author: Anton Kliukin
+Author-email: anton_kliukin@epam.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
